@@ -1,5 +1,5 @@
 # 2022-SEMI-DESIX-G1-Dario-Anguizola
-##Laboratorios realizados
+##Laboratorios realizados por mi persona
 
-En eeste repositorio se encontraran todos los laboratorios y trabajos realizados por mi persoan
+En este repositorio se encontraran todos los laboratorios y trabajos realizados
 
